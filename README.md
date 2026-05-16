@@ -32,3 +32,7 @@ session.jsonl.bak-2026-05-16T12-34-56-789Z
 ```
 
 To restore, close Codex Desktop and copy the backup over the repaired `.jsonl` file.
+
+## Links
+
+- https://linux.do
